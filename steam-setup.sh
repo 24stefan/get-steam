@@ -23,7 +23,7 @@
     sudo pacman -Sy
  }
 
- # If you're not sure how this function works look in get-steam/docs/SEE.md
+
 
  # install the steam package
 
